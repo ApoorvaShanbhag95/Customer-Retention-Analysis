@@ -41,6 +41,14 @@ Based on the analysis, proposed ways to reduce churn:
 
 ---
 
+## 📂 Repository Structure
+
+├── pwc_tasks.pbix # Power BI dashboard with churn/retention metrics
+
+├── customer_retention.PNG # Key visualizations / charts
+
+└── README.md # Project overview, findings & recommendations
+
 
 
 
